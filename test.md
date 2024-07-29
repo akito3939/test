@@ -1,5 +1,6 @@
 # test
 ばかやろう
-あああいいいううう
+hogehoge
+mogemoge
 mojamoja
 kojakoja
